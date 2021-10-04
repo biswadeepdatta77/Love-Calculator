@@ -1,4 +1,4 @@
-print("Welcome to Love Calculator!! Here we predict your destiny with our love or crush")
+print("Welcome to Love Calculator!! Here we predict your destiny with your lover or crush")
 your_name = input("What is your name? ")
 lover_name = input("What is your lover's name? ")
 your_name = your_name.lower()
